@@ -859,11 +859,3 @@ footer .logo {
 .input-row:focus ~ .modal-icon {
   fill: var(--accent);
 }
-
-.agree-cube {
-  width: 16px;
-  height: 15px;
-  margin-right: 8px;
-
-  border: 4px solid black;
-}
